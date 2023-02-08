@@ -4,7 +4,7 @@ const menu = [
         title: "Pancakes",
         category: "Breakfast",
         price: 150,
-        img: "./public/images/1.jfif",
+        img: "./images/1.jfif",
         desc: 'A wholesome meal in itself. A plate comes with 4 pieces, drizzled with pancake syrup and berries.'
     },
     {
